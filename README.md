@@ -22,4 +22,5 @@ The biggest challenge we had was trying to learn react in a day, as well as impl
 We made an app that gives great information about the environment and what we can do to protect it, as well as information pertaining to where exactly the fire is.
 
 **What we learned**
+ 
 
