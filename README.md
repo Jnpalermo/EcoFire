@@ -1,6 +1,6 @@
 ![Image of EcoFire](https://media.discordapp.net/attachments/753335542942531716/754396688978018384/Screen_Shot_2020-09-12_at_10.42.28_AM.png)
 
-![Image of EcoFire](https://media.discordapp.net/attachments/753335542942531716/754240589935149116/Screen_Shot_2020-09-12_at_12.22.00_AM.png?width=1624&height=923)
+![Image of EcoFire](https://cdn.discordapp.com/attachments/753335542942531716/754599627608686722/Screen_Shot_2020-09-13_at_12.09.17_AM.png?width=1624&height=923)
 
 ![Image of EcoFire](https://cdn.discordapp.com/attachments/754527966360502345/754528040587100331/Screen_Shot_2020-09-12_at_10.22.53_PM.png)
 
