@@ -119,6 +119,13 @@ Image
     margin-left:20px
 }
 
+
+.wide-img {
+    position: relative;
+    /*top: -180px;*/
+
+}
+
 /*
  * Footer
  */

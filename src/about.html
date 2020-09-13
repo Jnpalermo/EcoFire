@@ -1,10 +1,146 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Ecofire</title>
 
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/cover/">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+    <link href="sliding.css" rel="stylesheet">
+    <script src="slideshow.js"></script>
+</head>
+<body class="text-center">
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+        <div class="inner">
+            <h3 class="masthead-brand"><img src="../public/Ecofire-logo.png" alt="logo" width="145" height="70"/></h3>
+            <nav class="nav nav-masthead justify-content-center">
+                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="map.html">Map</a>
+                <a class="nav-link active" href="">About</a>
+            </nav>
+        </div>
+    </header>
+    <div class="wide-img">
+        <img src="../public/wildfire-pic.jpg" alt="large-image" width="1100" height="230"/>
+    </div>
+    <hr class="solid">
+    <main>
+        <hr class="solid">
+        <h2>Wildfires Fast Facts</h2>
+        <ul class="fact-list">
+            <li> From January 1 to September 8, 2020 there were 41,051 wildfires compared with 35,386 wildfires
+                in the same period in 2019, according to the <a href="https://www.nifc.gov/fireInfo/nfn.htm" style="color:black">National Interagency Fire Center</a>. About 4.7 million acres
+                were burned in the 2020 period, compared with 4.2 million acres in 2019.</li>
+            <li>Wildfires or unplanned ignitions are caused by humans about 85% of the time.</li>
+            <li>During the current 2020 COVID-19 pandemic, fires have scorched 1,666,286 acres in 7,335 fires.</li>
+            <li>Research shows that changes in climate that create warmer, drier conditions, increased drought, and a longer fire season are boosting these increases in wildfire risk.</li>
+        </ul>
+        <hr class="solid">
+        <hr class="solid">
+        <h2>IN CASE OF EMERGENCY</h2>
+        <div class="slideshow-container">
+
+            <!-- Full-width images with number and caption text -->
+
+            <div id="slide1" class="mySlides">
+                <div class="numbertext">1 / 4</div>
+                <img src="../public/image0.png" style="width:350px">
+                <!--            <div class="text">Caption Text</div>-->
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 4</div>
+                <img src="../public/image1.png" style="width:350px">
+                <!--            <div class="text">Caption Two</div>-->
+            </div>
+
+            <div class="mySlides ">
+                <div class="numbertext">3 / 4</div>
+                <img src="../public/image2.png" style="width:350px">
+                <!--            <div class="text">Caption Three</div>-->
+            </div>
+            <div class="mySlides ">
+                <div class="numbertext">3 / 4</div>
+                <img src="../public/image3.png" style="width:350px">
+                <!--            <div class="text">Caption Three</div>-->
+            </div>
+            <!-- Next and previous buttons -->
+            <!--        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>-->
+            <!--        <a class="next" onclick="plusSlides(1)">&#10095;</a>-->
+        </div>
+        <br>
+
+        <!-- The dots/circles -->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+        </div>
+        <p>source: @oregonclimatestrike on instagram</p>
+        <h4>Emergency Wildfire Kit</h4>
+        <ul class="fact-list">
+            <li>Face masks or coverings</li>
+            <li>Three-day supply of non-perishable food and three gallons of water per person</li>
+            <li>Change of clothing</li>
+            <li>Prescriptions or special medications</li>
+            <li>An extra set of car keys, credit cards, cash or traveler’s checks</li>
+            <li>Flashlight</li>
+            <li>Copies of important documents (birth certificates, passports, etc.)</li>
+            <li>Chargers for cell phones, laptops, etc.</li>
+            <li>Easily carried valuables</li>
+        </ul>
+        <p>Link for more info: <a href="https://www.readyforwildfire.org/prepare-for-wildfire/get-set/emergency-supply-kit/" style="color:black">Emergency Supply Kit Checklist</a></p>
+        <hr class="solid">
+        <hr class="solid">
+        <h2>Resources & More</h2>
+        <h3>References</h3>
+        <ul class="fact-list">
+            <li><a href="https://www.usgs.gov/news/fast-fire-facts-usgs" style="color:black">https://www.usgs.gov/news/fast-fire-facts-usgs</a></li>
+            <li><a href="https://www.fire.ca.gov/stats-events/" style="color:black">https://www.fire.ca.gov/stats-events/</a></li>
+            <li><a href="https://www.iii.org/fact-statistic/facts-statistics-wildfires">https://www.iii.org/fact-statistic/facts-statistics-wildfires</a></li>
+        </ul>
+        <h3>More Info</h3>
+        <ul class="fact-list">
+            <li><a href="https://wasmoke.blogspot.com/2020/09/protect-yourself-from-wildfire-smoke.html" style="color:black">https://wasmoke.blogspot.com/2020/09/protect-yourself-from-wildfire-smoke.html </a></li>
+            <li><a href="https://www.airnow.gov/air-quality-and-health/how-smoke-from-fires-can-affect-your-health/" style="color:black">https://www.airnow.gov/air-quality-and-health/how-smoke-from-fires-can-affect-your-health/</a></li>
+            <li><a href="https://www.dnr.wa.gov/publications/rp_fire_how_to_prepare_wildfire.pdf?uc1go" style="color:black">https://www.dnr.wa.gov/publications/rp_fire_how_to_prepare_wildfire.pdf?uc1go</a></li>
+        </ul>
+        <hr class="solid">
+    </main>
+
+
+    <footer class="mastfoot mt-auto">
+        <div class="inner">
+            <p>©Super Genius & Fun.</p>
+        </div>
+    </footer>
+</div>
 </body>
 </html>
