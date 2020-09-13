@@ -1,0 +1,643 @@
+{
+  "metadata": null,
+  "data": {
+    "datetime": "2020-09-13T00:00:00Z",
+    "data_available": true,
+    "fires": [
+      {
+        "update_time": "2020-09-11T09:48:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.04043,
+          "lon": -119.3883766667,
+          "distance": {
+            "value": 29.21,
+            "units": "km"
+          },
+          "direction": 5
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.0220351196,
+          "lon": -119.2912755024,
+          "distance": {
+            "value": 29.31,
+            "units": "km"
+          },
+          "direction": 23
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-09T06:33:29Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 37.042775,
+          "lon": -119.498937,
+          "distance": {
+            "value": 30.23,
+            "units": "km"
+          },
+          "direction": 346
+        },
+        "details": {
+          "fire_name": "AUBERRY",
+          "status": "Active",
+          "time_discovered": "2020-09-09T06:19:01Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-10T10:06:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.05662,
+          "lon": -119.4079033333,
+          "distance": {
+            "value": 30.9,
+            "units": "km"
+          },
+          "direction": 2
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.0599579775,
+          "lon": -119.3123349438,
+          "distance": {
+            "value": 32.64,
+            "units": "km"
+          },
+          "direction": 17
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-08T18:37:37Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 36.681859,
+          "lon": -119.054509,
+          "distance": {
+            "value": 34.18,
+            "units": "km"
+          },
+          "direction": 108
+        },
+        "details": {
+          "fire_name": "COACH",
+          "status": "Active",
+          "time_discovered": "2020-09-08T18:29:37Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-11T04:02:41Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 36.967006,
+          "lon": -119.725968,
+          "distance": {
+            "value": 34.54,
+            "units": "km"
+          },
+          "direction": 307
+        },
+        "details": {
+          "fire_name": "LOST",
+          "status": "Active",
+          "time_discovered": "2020-09-11T03:48:52Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-10T21:24:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.09962,
+          "lon": -119.433085,
+          "distance": {
+            "value": 35.68,
+            "units": "km"
+          },
+          "direction": 358
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-11T09:48:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.1243575,
+          "lon": -119.4200675,
+          "distance": {
+            "value": 38.4,
+            "units": "km"
+          },
+          "direction": 360
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-08T00:24:20Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 36.923124,
+          "lon": -119.821078,
+          "distance": {
+            "value": 39.38,
+            "units": "km"
+          },
+          "direction": 294
+        },
+        "details": {
+          "fire_name": "CHIPS",
+          "status": "Active",
+          "time_discovered": "2020-09-08T00:23:13Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-10T21:24:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.1375533333,
+          "lon": -119.4436016667,
+          "distance": {
+            "value": 39.93,
+            "units": "km"
+          },
+          "direction": 357
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.099598,
+          "lon": -119.17605,
+          "distance": {
+            "value": 41.66,
+            "units": "km"
+          },
+          "direction": 31
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.1225991429,
+          "lon": -119.2307222857,
+          "distance": {
+            "value": 41.69,
+            "units": "km"
+          },
+          "direction": 24
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.152064,
+          "lon": -119.2585868,
+          "distance": {
+            "value": 43.84,
+            "units": "km"
+          },
+          "direction": 19
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-10T21:24:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.130415,
+          "lon": -119.18745,
+          "distance": {
+            "value": 44.14,
+            "units": "km"
+          },
+          "direction": 28
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-10T21:24:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.170955,
+          "lon": -119.2709875,
+          "distance": {
+            "value": 45.5,
+            "units": "km"
+          },
+          "direction": 17
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-10T21:30:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.18755875,
+          "lon": -119.45094,
+          "distance": {
+            "value": 45.51,
+            "units": "km"
+          },
+          "direction": 356
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-11T22:11:24Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 36.7915,
+          "lon": -118.907733333,
+          "distance": {
+            "value": 45.56,
+            "units": "km"
+          },
+          "direction": 88
+        },
+        "details": {
+          "fire_name": "SHORE",
+          "status": "Active",
+          "time_discovered": "2020-09-01T18:22:00Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": null,
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-12T12:53:29Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 37.201,
+          "lon": -119.2716,
+          "distance": {
+            "value": 48.68,
+            "units": "km"
+          },
+          "direction": 15
+        },
+        "details": {
+          "fire_name": "CREEK",
+          "status": "Active",
+          "time_discovered": "2020-09-05T01:33:00Z",
+          "fire_behavior": "Active, Flanking, Torching, Spotting",
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": 6,
+          "size": {
+            "value": 79588.38,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-12T06:00:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.2171638095,
+          "lon": -119.4664602381,
+          "distance": {
+            "value": 48.9,
+            "units": "km"
+          },
+          "direction": 355
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.1799585882,
+          "lon": -119.1786692941,
+          "distance": {
+            "value": 49.4,
+            "units": "km"
+          },
+          "direction": 25
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T16:07:22Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 36.428951,
+          "lon": -119.071444,
+          "distance": {
+            "value": 49.64,
+            "units": "km"
+          },
+          "direction": 141
+        },
+        "details": {
+          "fire_name": "WOODLAKE",
+          "status": "Active",
+          "time_discovered": "2020-09-12T15:46:45Z",
+          "fire_behavior": null,
+          "fire_type": "Debris/Product Fire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-12T09:30:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.1122054545,
+          "lon": -119.01929,
+          "distance": {
+            "value": 51.32,
+            "units": "km"
+          },
+          "direction": 44
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T19:13:01Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 37.14127,
+          "lon": -119.0253,
+          "distance": {
+            "value": 53.34,
+            "units": "km"
+          },
+          "direction": 41
+        },
+        "details": {
+          "fire_name": "BULLFROG",
+          "status": "Active",
+          "time_discovered": "2020-09-08T22:09:00Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": 0.04,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.2231321212,
+          "lon": -119.1904973485,
+          "distance": {
+            "value": 53.35,
+            "units": "km"
+          },
+          "direction": 22
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T09:30:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.140622,
+          "lon": -119.023662,
+          "distance": {
+            "value": 53.38,
+            "units": "km"
+          },
+          "direction": 41
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.2634593548,
+          "lon": -119.4321322581,
+          "distance": {
+            "value": 53.86,
+            "units": "km"
+          },
+          "direction": 359
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-10T19:37:57Z",
+        "source": "Local Authority",
+        "confidence": null,
+        "position": {
+          "lat": 37.212673,
+          "lon": -119.698843,
+          "distance": {
+            "value": 54.31,
+            "units": "km"
+          },
+          "direction": 333
+        },
+        "details": {
+          "fire_name": "CASINO",
+          "status": "Active",
+          "time_discovered": "2020-09-10T19:26:21Z",
+          "fire_behavior": null,
+          "fire_type": "Wildfire",
+          "fire_cause": "Unknown",
+          "percent_contained": null,
+          "size": {
+            "value": null,
+            "units": "m2"
+          }
+        }
+      },
+      {
+        "update_time": "2020-09-11T21:06:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.268012,
+          "lon": -119.255672,
+          "distance": {
+            "value": 56.23,
+            "units": "km"
+          },
+          "direction": 15
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-11T21:06:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.240255,
+          "lon": -119.1394028125,
+          "distance": {
+            "value": 56.94,
+            "units": "km"
+          },
+          "direction": 26
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.2692644828,
+          "lon": -119.2181596552,
+          "distance": {
+            "value": 57.31,
+            "units": "km"
+          },
+          "direction": 18
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T09:30:00Z",
+        "source": "Satellite",
+        "confidence": "Medium",
+        "position": {
+          "lat": 37.2623719048,
+          "lon": -119.1757942857,
+          "distance": {
+            "value": 57.88,
+            "units": "km"
+          },
+          "direction": 22
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.3085164706,
+          "lon": -119.4241147059,
+          "distance": {
+            "value": 58.84,
+            "units": "km"
+          },
+          "direction": 359
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.3233167568,
+          "lon": -119.4514937838,
+          "distance": {
+            "value": 60.56,
+            "units": "km"
+          },
+          "direction": 357
+        },
+        "details": "na"
+      },
+      {
+        "update_time": "2020-09-12T21:15:00Z",
+        "source": "Satellite",
+        "confidence": "High",
+        "position": {
+          "lat": 37.32225,
+          "lon": -119.271,
+          "distance": {
+            "value": 61.76,
+            "units": "km"
+          },
+          "direction": 12
+        },
+        "details": "na"
+      }
+    ]
+  },
+  "error": null
+}
